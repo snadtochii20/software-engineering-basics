@@ -1,5 +1,7 @@
 def main():
-print("Hello, Software Engineering!")
-print("Автор: [Журавель Юрій]")
+    print("Hello, Software Engineering!")
+    print("Автор: Надточій Сергій")
+
 if __name__ == "__main__":
-main()
+    main()
+
