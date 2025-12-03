@@ -1,3 +1,4 @@
+
 class Calculator:
     def add(self, a, b):
         """Додавання двох чисел"""
@@ -20,7 +21,7 @@ class Calculator:
 
 def main():
     calc = Calculator()
-    print("Простий калькулятор")
+    print("[Простий калькулятор]")
     print(f"5 + 3 = {calc.add(5, 3)}")
     print(f"10 - 4 = {calc.subtract(10, 4)}")
     print(f"6 * 7 = {calc.multiply(6, 7)}")
